@@ -10,6 +10,6 @@ $ pip install pysimplegui
 ```
 ##Running the files
 - You need to execute <b>final.py<b> to run the GUI.
-<a href="https://github.com/CRUCIFIER0/Steganography"><img src="https://github.com/CRUCIFIER0/Steganography/blob/master/GUIss.jpg"></a>
+[![INSERT YOUR GRAPHIC HERE](https://github.com/CRUCIFIER0/Steganography/blob/master/GUIss.jpg)]()
 
 
