@@ -9,7 +9,7 @@ $ pip install Pillow
 $ pip install pysimplegui
 ```
 ##Running the files
-- You need to execute <b>final.py<b> to run the GUI.
-[![INSERT YOUR GRAPHIC HERE](https://github.com/CRUCIFIER0/Steganography/blob/master/GUIss.jpg)]()
+- You need to execute <b>final.py<b> to run the GUI.<br>
+<br>[![INSERT YOUR GRAPHIC HERE](https://github.com/CRUCIFIER0/Steganography/blob/master/GUIss.jpg)]()
 
 
