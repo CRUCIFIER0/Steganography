@@ -69,7 +69,7 @@ elif(values[0]==True and values[3]==True and values[5]==True):
 
 
 #while looop
-#image display
+#image display.
 
     
 
